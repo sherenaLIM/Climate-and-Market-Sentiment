@@ -1,8 +1,8 @@
-# Project 1: Exploring climate data of Singapore and its effects on market sentiment
+# Exploring climate data of Singapore and its effects on market sentiment
 
 ### Overview
 
-For my first project, I am going to analyze climate trends in Singapore. Climate refers to the general weather conditions prevailing over an area for a long period. There are several aspects to studying climate that includes rainfall, temperature, relative humidity, wet bulb temperature, sunshine duration etc. 
+In this project, I am going to analyze climate trends in Singapore. Climate refers to the general weather conditions prevailing over an area for a long period. There are several aspects to studying climate that includes rainfall, temperature, relative humidity, wet bulb temperature, sunshine duration etc. 
 
 The project allows you to utilise and demonstrate the following skills:
 - Basic statistics and probability
